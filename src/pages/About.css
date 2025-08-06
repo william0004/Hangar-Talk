@@ -1,0 +1,28 @@
+
+.about-page {
+  max-width: 600px;
+  margin: 2rem auto;
+  padding: 2rem 1.5rem;
+}
+
+.about-page h1, .about-page h2 {
+  color: #1976d2;
+  margin-bottom: 1rem;
+  text-align: center;
+}
+
+.about-page p {
+  color: #444;
+  margin-bottom: 1.2rem;
+  line-height: 1.7;
+  text-align: center;
+}
+
+.about-page ul {
+  margin: 1rem 0 1rem 2rem;
+  color: #333;
+}
+
+.about-page li {
+  margin-bottom: 0.5rem;
+}
